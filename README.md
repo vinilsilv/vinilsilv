@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me: silvinil@protonmail.ch
 
 <div>
