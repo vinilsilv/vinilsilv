@@ -20,8 +20,8 @@ I'm a web and software developer from Brazil 🇧🇷
 
 <div>
 	<a href="https://github.com/vinilsilv">		
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinilsilv&show_icons=true&theme=github_dark">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinilsilv&layout=compact&theme=github_dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinilsilv&show_icons=true">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinilsilv&layout=compact"/>
 </div>
 	
 
