@@ -4,7 +4,7 @@ I'm a web and software developer from Brazil 🇧🇷
 
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning Angular, C# and Python
+- 🌱 I’m currently learning Angular, React, C# and Python
 - ❤️ I love doing new projects and acquire new skills
 - 📫 How to reach me: vinilrsilv@gmail.com, [LinkedIn](https://www.linkedin.com/in/vinilsilv)
 - 💻 I have another portfolio at [CodePen](https://www.codepen.io/vinilsilv) too!
