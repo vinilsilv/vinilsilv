@@ -8,7 +8,7 @@ I'm a web and software developer from Brazil 🇧🇷
 - ❤️ I love doing new projects and acquire new skills
 - 📫 How to reach me: vinilrsilv@gmail.com, [LinkedIn](https://www.linkedin.com/in/vinilsilv)
 - 💻 I have another portfolio at [CodePen](https://www.codepen.io/vinilsilv) too!
-- ✏️ I make new posts on [Wordpress](https://vinilsilv.wordpress.com) and [Medium](https://www.medium.com/@vinilsilv) every friday. Take a look!
+- ✏️ I make new posts about programming every friday. [Take a look](https://www.medium.com/@vinilsilv)!
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
