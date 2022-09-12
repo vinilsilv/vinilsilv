@@ -1,6 +1,6 @@
 ### Hello there 😃
 
-I'm a web and software developer from Brazil 🇧🇷 
+My name is Vinicius Silva and I'm a web and software developer
 
 
 - 🔭 I’m currently working on front-end development
