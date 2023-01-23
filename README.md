@@ -7,6 +7,7 @@ My name is Vinicius Silva and I'm a web and software developer
 - 🌱 I’m currently learning Angular, React and C#
 - ❤️ I love doing new projects and acquire new skills
 - 📫 How to reach me: vinilrsilv@gmail.com, [LinkedIn](https://www.linkedin.com/in/vinilsilv)
+- 🌐 Make sure to check out my [website](https://vinilsilv.com)!
 - 💻 I have another portfolio at [CodePen](https://www.codepen.io/vinilsilv) too!
 - ✏️ I make new posts about programming every friday. [Take a look](https://www.medium.com/@vinilsilv)!
 
